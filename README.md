@@ -1,7 +1,7 @@
 # ParhamPublicRemoteRepo1
 hello this is parham mohammadi!
 
-#Conflict change
+#Conflict change22222
 
 # Created by Romel Lozendo
 Hello from the web developers!, small changes
@@ -18,8 +18,12 @@ Branch something....
 
 
 # This is something for another branch called MEL...
+<<<<<<< HEAD
 Updated.....
 
 
 # YEAH YEAH WERE DONE!!!
 This is just a test This is just a test This is just a test
+=======
+Updated.....
+>>>>>>> origin/mel
